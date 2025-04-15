@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/879629821479545048/58c854255b5e44b8b598f1cb24fd4d43/artifacts
+end_time: 1744440713949
+entry_point_name: ''
+experiment_id: '879629821479545048'
+lifecycle_stage: active
+run_id: 58c854255b5e44b8b598f1cb24fd4d43
+run_name: powerful-penguin-176
+run_uuid: 58c854255b5e44b8b598f1cb24fd4d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744440709022
+status: 3
+tags: []
+user_id: panth

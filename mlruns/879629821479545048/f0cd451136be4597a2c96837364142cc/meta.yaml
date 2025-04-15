@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/879629821479545048/f0cd451136be4597a2c96837364142cc/artifacts
+end_time: 1744440241564
+entry_point_name: ''
+experiment_id: '879629821479545048'
+lifecycle_stage: active
+run_id: f0cd451136be4597a2c96837364142cc
+run_name: honorable-steed-919
+run_uuid: f0cd451136be4597a2c96837364142cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744440241483
+status: 4
+tags: []
+user_id: panth

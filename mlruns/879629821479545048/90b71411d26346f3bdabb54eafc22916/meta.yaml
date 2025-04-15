@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/879629821479545048/90b71411d26346f3bdabb54eafc22916/artifacts
+end_time: 1744440330091
+entry_point_name: ''
+experiment_id: '879629821479545048'
+lifecycle_stage: active
+run_id: 90b71411d26346f3bdabb54eafc22916
+run_name: amusing-ox-374
+run_uuid: 90b71411d26346f3bdabb54eafc22916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744440320219
+status: 3
+tags: []
+user_id: panth

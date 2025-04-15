@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/663496014935821345/d88c0ff22aa84f91b2b00d1983a39899/artifacts
+end_time: 1744433316610
+entry_point_name: ''
+experiment_id: '663496014935821345'
+lifecycle_stage: active
+run_id: d88c0ff22aa84f91b2b00d1983a39899
+run_name: intrigued-mare-360
+run_uuid: d88c0ff22aa84f91b2b00d1983a39899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744433316510
+status: 3
+tags: []
+user_id: panth

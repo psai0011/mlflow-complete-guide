@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/663496014935821345/4beace076b744a4596fb39c537dfd1fc/artifacts
+end_time: 1744433316769
+entry_point_name: ''
+experiment_id: '663496014935821345'
+lifecycle_stage: active
+run_id: 4beace076b744a4596fb39c537dfd1fc
+run_name: fearless-penguin-34
+run_uuid: 4beace076b744a4596fb39c537dfd1fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744433316687
+status: 3
+tags: []
+user_id: panth
