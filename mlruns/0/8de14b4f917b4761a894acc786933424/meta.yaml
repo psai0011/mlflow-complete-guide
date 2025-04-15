@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/panth/Desktop/Saikiran/MLOPS/MLFLOW_Tracking/mlruns/0/8de14b4f917b4761a894acc786933424/artifacts
+end_time: 1744612421007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de14b4f917b4761a894acc786933424
+run_name: shivering-mare-295
+run_uuid: 8de14b4f917b4761a894acc786933424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744612308006
+status: 3
+tags: []
+user_id: panth
